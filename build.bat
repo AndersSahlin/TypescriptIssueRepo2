@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe" /nologo TsExampleProject.sln /m /p:OutDir="C:\Temp\Build" /p:Configuration="Debug"
